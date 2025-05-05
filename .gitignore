@@ -1,2 +1,19 @@
 node_modules/
 doc.txt
+.env
+
+# Logs
+*.log
+
+# System files
+
+Thumbs.db
+
+# VS Code settings (optional but common)
+.vscode/
+
+# Code runner temp files
+tempCodeRunnerFile.js
+
+# OS metadata files
+*.swp
